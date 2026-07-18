@@ -83,14 +83,12 @@ Decision Support Report
 ```
 clinical-decision-support-system
 │
-├── dataset/
-├── app/
+├── CDSS/
 │   ├── basics/
 │   ├── GUI/
 │   ├── manage.py
 │   └── requirements.txt
 │
-├── docs/
 └── README.md
 ```
 
