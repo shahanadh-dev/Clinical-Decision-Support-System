@@ -161,3 +161,16 @@ Include:
 ## Disclaimer
 
 This project was developed for educational and research purposes only. It is intended to demonstrate the application of Machine Learning in clinical decision support and should not be used as a substitute for professional medical diagnosis.
+
+---
+
+# 👨‍💻 Author
+
+**Shahanadh Shah**
+
+Software Engineer | AI/ML Engineer | Generative AI | Backend Developer
+
+- LinkedIn: https://www.linkedin.com/in/shahanadh-shah
+- GitHub: https://github.com/shahanadh-dev
+
+---
